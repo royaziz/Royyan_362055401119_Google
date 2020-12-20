@@ -1,0 +1,79 @@
+#navbar a {
+  font-size: 20px;
+  color: rgb(48, 45, 45);
+}
+
+#navbar i {
+  position: relative;
+  top: 6px;
+  color: grey;
+}
+
+#navbar img {
+  width: 45px;
+  border-radius: 100%;
+  position: relative;
+  top: 10px;
+}
+form {
+  text-align: center;
+}
+
+#Search img.icon {
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 16px;
+}
+
+#Search input.Telusuri {
+  padding: 15px 0px 15px 50px;
+  width: 600px;
+  border-radius: 25px;
+}
+
+.Penelusuran input {
+  font-size: 16px;
+  padding: 10px 25px;
+  border: 1px solid rgb(157, 173, 192);
+  background: rgb(248, 251, 252);
+  border-radius: 6px;
+}
+
+a {
+  color: #1a0dab;
+  text-decoration: none;
+}
+
+#footer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 10px 15px;
+  display: block;
+  color: grey;
+}
+
+#footer p {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 8px;
+}
+
+#footer ul {
+  margin: 0;
+  padding: 0;
+}
+
+#footer ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px 15px;
+}
+
+#footer ul li:nth-child(1) {
+  padding-left: 8px;
+}
+
+#footer ul.right {
+  float: right;
+}
